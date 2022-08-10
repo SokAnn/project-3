@@ -1,0 +1,5 @@
+Error: reality & expectation mismatch 	 Time:                  25 ps 	 Signal: empty
+Error: reality & expectation mismatch 	 Time:                  45 ps 	 Signal: almost_full
+Error: reality & expectation mismatch 	 Time:                2595 ps 	 Signal: usedw
+Error: reality & expectation mismatch 	 Time:                2625 ps 	 Signal: q
+Error: reality & expectation mismatch 	 Time:                5145 ps 	 Signal: almost_empty
